@@ -18,7 +18,6 @@ This project predicts house prices using Machine Learning based on inputs like l
 🚀 How to Run
 
 pip install -r requirements.txt
-
 streamlit run app.py
 
 ---
