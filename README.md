@@ -31,6 +31,6 @@ streamlit run app.py
 
 ---
 
-** Author **
-ABHISHEK S
+## 👨‍💻 Author
+Abhishek S
 
